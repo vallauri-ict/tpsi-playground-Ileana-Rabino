@@ -5,4 +5,4 @@
 3. Angular Intro
 
 ## 5°C INF.
-02/10/2020 my app: Angular
+my-app: Angular getting started 02/10/2020
